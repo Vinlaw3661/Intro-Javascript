@@ -19,9 +19,8 @@ Welcome to the Beginner JavaScript Guide! This repository contains code examples
    - [Basic Operators](#basic-operators)
    - [Nullish Coalescing Operator](#nullish-coalescing-operator)
    - [Ternary Operator](#ternary-operator)
-7. [Getting Started](#getting-started)
-8. [Contributing](#contributing)
-9. [License](#license)
+7. [Full Code Example](#full-code-example)
+   
 
 ## Introduction
 
